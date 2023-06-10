@@ -5,7 +5,7 @@ console.log("This is index.js");
 // 3. Add a scroll bar to the view
 
 // Constructor
-function Book(name, author, cost, type) {
+function Book(name, author,type, cost) {
     this.name = name;
     this.author = author;
     this.type = type;
