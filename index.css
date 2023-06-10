@@ -1,0 +1,12 @@
+body 
+    {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px;
+        background-color: aqua;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        filter: brightness(100%);
+    }
+  
