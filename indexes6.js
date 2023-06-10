@@ -1,7 +1,7 @@
 
-console.log('This is ES6 version of Project 2');
+console.log('This is version 2 of library managing js');
 class Book {
-    constructor(name, author, type) {
+    constructor(name, author, type, cost) {
         this.name = name;
         this.author = author;
         this.type = type;
